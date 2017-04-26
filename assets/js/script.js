@@ -38,7 +38,7 @@ $("#contact").hover(function() {
 		$("#contact-container").hide();
 	});
 
-  // Scrolldown when click on menu"
+  // Scrolldown or up when click on menu"
 
   $('a[href^="#"]').on('click', function(event) {
       var target = $(this.getAttribute('href'));

@@ -264,7 +264,7 @@ margin-top: 3em;
 
 }
 
-#PhD {
+#biography {
 	height: 230px;
 	width: 100%;
 	position: relative;
@@ -288,4 +288,56 @@ width: 45%;
 float: right;
 padding-right: 171px;
 
+}
+
+/*Photo Gallery*/
+
+#mytrip {
+	    width: 55%;
+	    margin: auto;
+	    margin-bottom: 70px;;
+}
+
+.title {
+text-align: center;
+padding: 0;
+border: 0;
+font-weight: normal;
+font-style: normal;
+font-size: 1.6em;
+line-height: 0.2;
+font-family: inherit;
+display: block;
+margin-top: 2.6em;
+}
+
+.subtitle {
+text-align: center;
+line-height:1.6em;
+}
+
+/*code from schools.com*/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+		display: inline-block;
+   width: 180px;
+		border-radius:8px;
+
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+		border-radius:8px;
+
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
 }
