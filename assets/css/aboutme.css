@@ -298,7 +298,8 @@ padding-right: 171px;
 #mytrip {
 	    width: 55%;
 	    margin: auto;
-	    margin-bottom: 70px;;
+	    margin-bottom: 70px;
+			padding: 40px;
 }
 
 .title {
