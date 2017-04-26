@@ -230,7 +230,10 @@ font-family: pacifico;
 font-size: 1.4em;
 position: relative;
 }
-
+.menu-items:hover {
+	color: #464e7d;
+	cursor: pointer;
+}
 #contact {
 		margin: 15px 50px;
 		font-weight: 400;
